@@ -1,0 +1,5 @@
+{
+	"ip":"nightking42.aternos.me",
+	"port": "45076",
+	"name": "afkbot"
+}
